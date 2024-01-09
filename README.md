@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Curso Sistemas de Informação pela UFC;</h2>
+<h2 align="left">Curso Sistemas de Informação;</h2>
 
 ###
 
