@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Gero bugs em...</h2>
+<h2 align="left">Gerando bugs em...</h2>
 
 ###
 
