@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Compilando sonhos em commints desde Novembro 2022<br>📚 Atualmente estou aprimorando meus conhecimentos em Java e C#;<br>🎯 Meta - Explorador de Linguagens: - Desenvolver as LP conhecidas e desbloquear outras com proeficiência<br>🎲 Curiosidade:  Desperto minha mente com uma "Curiosidade Tecnológica" a cada dia mergulhando em cada vez mais linhas de código...</p>
+<p align="left">✨ Compilando sonhos em commints desde Novembro 2022<br>📚 Atualmente estou aprimorando meus conhecimentos em Java e C#;<br>🎯 Meta - Explorador de Linguagens: - Desenvolver as LP conhecidas e desbloquear outras com proeficiência</p>
 
 ###
 
